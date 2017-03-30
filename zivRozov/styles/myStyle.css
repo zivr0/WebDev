@@ -1,0 +1,165 @@
+body 
+{
+    direction:rtl;
+    background-color:hotpink;
+}
+#container
+{
+    width:1080px;
+    margin:0 auto;
+}
+article
+{
+    margin-right:250;
+    background-image:url(../images/3zb4Fme.jpg);
+    background-repeat:no-repeat;
+height: 1700px;
+width:1700px;
+background-position-x: -350px;
+background-position-y: -190px;
+  
+}
+h1
+{
+    border:dotted 10px;
+    padding:10px;
+    color:midnightblue;
+    background-color:transparent;
+    width:300px;
+    margin-right:1150px;
+    text-align:center;
+}
+
+#lala
+{
+    border:double 15px;
+    padding:20px;
+    color:darkslateblue;
+    background-color:deeppink;
+    width:350px;
+    height:800px;
+    margin-right:1120px;
+}
+h2{
+    margin-bottom:15px;
+    margin-right:30px;
+}
+h2:first-letter
+{
+    font-size:larger;
+    color:navajowhite;
+}
+#pic1
+{
+    background-image:url(../images/20170330_162501.jpg);
+    background-repeat:no-repeat;
+    background-size:293px 293px;
+   height:293px;
+   width:220px;
+   border:solid 2px darkslateblue;
+  margin-right:66px;
+  margin-bottom:30px;
+    
+}
+h3
+{
+    color:peachpuff;
+    margin-top:30px;
+    margin:right:80px;
+}
+#facebook{
+    background-image:url(../images/facebook-marcus.png);
+    background-repeat:no-repeat;
+    background-size:20px 20px;
+    border:hidden;
+    width:20px;
+    height:20px;
+    float:right;
+}
+#gmail{
+  background-image:url(../images/gmail-128.png);
+    background-repeat:no-repeat;
+    background-size:20px 20px;
+    border:hidden;
+    width:20px;
+    height:20px;  
+    display:inline;
+    float:right;
+}
+
+#elek
+{
+    background-image:url(../images/einlikoah.png);
+    background-size: 100px;
+    background-repeat:no-repeat;
+    border:hidden;
+    width:100px;
+    height:100px;
+    margin-top:60px;
+     
+}
+#elek:hover
+{
+    -moz-transform: scale(1.5);
+-webkit-transform: scale(1.5);
+-o-transform: scale(1.5);
+-ms-transform: scale(1.5);
+transform: scale(1.5);
+    -webkit-transition: all 100ms ease;
+-moz-transition: all 100ms ease;
+-ms-transition: all 100ms ease;
+-o-transition: all 100ms ease;
+transition: all 100ms ease;
+}
+#picto
+{
+    background-image:url(../images/all-giza-pyramids.png);
+    border: solid 2px blue;
+    background-repeat:no-repeat;
+    background-size:800px 400px;
+    height:400px;
+    width: 800px;
+
+}
+#picto2
+{
+background-image:url(../images/e33dff24a0b7d39f948a3aa3d492ca18.png);
+    border: solid 2px blue;
+    background-repeat:no-repeat;
+    background-size:800px 400px;
+    height:400px;
+    width: 800px;
+}
+#lala2
+{
+    margin-top:100px;
+     border:double 15px;
+    padding:20px;
+    color:darkslateblue;
+    background-color:deeppink;
+    width:800px;
+    height:900px;
+    margin-right:850px;
+}
+#rashi
+{
+    background-image:url(../images/rashi.png);
+    background-repeat:no-repeat;
+    background-size:100px;
+    width:100px;
+    height:100px;
+    margin-right:650px;
+}
+#rashi:hover
+{
+    -moz-transform: scale(1.5);
+-webkit-transform: scale(1.5);
+-o-transform: scale(1.5);
+-ms-transform: scale(1.5);
+transform: scale(1.5);
+    -webkit-transition: all 100ms ease;
+-moz-transition: all 100ms ease;
+-ms-transition: all 100ms ease;
+-o-transition: all 100ms ease;
+transition: all 100ms ease;
+}
